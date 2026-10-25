@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.famigou.app-debug-69:/font_iransans_fanum_bold.ttf.flat",
+        "source": "com.famigou.app-main-71:/font/iransans_fanum_bold.ttf"
+    },
+    {
+        "merged": "com.famigou.app-debug-69:/font_iransans_fanum_light.ttf.flat",
+        "source": "com.famigou.app-main-71:/font/iransans_fanum_light.ttf"
+    },
+    {
+        "merged": "com.famigou.app-debug-69:/drawable_ic_launcher.png.flat",
+        "source": "com.famigou.app-main-71:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.famigou.app-debug-69:/font_iransans_fanum.ttf.flat",
+        "source": "com.famigou.app-main-71:/font/iransans_fanum.ttf"
+    }
+]

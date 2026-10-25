@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.famigou.app-mergeDebugResources-67:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/amirhessam-mohseni/.gradle/caches/8.9/transforms/be570823ded68f55a401ec063ad77bb6/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

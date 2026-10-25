@@ -1,0 +1,4 @@
+#Sat Oct 24 23:55:03 IRST 2026
+base.0=/home/amirhessam-mohseni/development/kidora/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

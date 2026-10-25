@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.famigou.app-mergeDebugResources-67:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/amirhessam-mohseni/.gradle/caches/8.9/transforms/be570823ded68f55a401ec063ad77bb6/transformed/appcompat-1.6.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
