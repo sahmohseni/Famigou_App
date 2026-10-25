@@ -1,0 +1,50 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local Android SDK path
+local.properties
+
+# Android Studio / IntelliJ personal files
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/contentModel.xml
+*.iml
+
+# Build and packaging outputs
+*.apk
+*.aab
+*.apks
+*.dex
+*.class
+*.hprof
+
+# Native build outputs
+.cxx/
+.externalNativeBuild/
+
+# Signing keys and sensitive configuration
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+*.p12
+*.pem
+
+# Environment and local overrides
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

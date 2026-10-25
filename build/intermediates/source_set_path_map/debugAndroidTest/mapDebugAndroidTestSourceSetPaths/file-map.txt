@@ -1,4 +1,0 @@
-com.famigou.app.test.app-androidTest-0 /home/amirhessam-mohseni/development/kidora/app/build/generated/res/resValues/androidTest/debug
-com.famigou.app.test.app-mergeDebugAndroidTestResources-1 /home/amirhessam-mohseni/development/kidora/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.famigou.app.test.app-mergeDebugAndroidTestResources-2 /home/amirhessam-mohseni/development/kidora/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.famigou.app.test.app-debugAndroidTest-3 /home/amirhessam-mohseni/development/kidora/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
